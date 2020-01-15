@@ -1,8 +1,10 @@
 .vscode
 __pycache__/
 blog.db
+blog_engine/blog.db
 venv
 .env
+temp.py
 
 *.manifest
 *.spec
